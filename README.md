@@ -57,7 +57,7 @@ for(int r : result4)
 
 This code would output:
 
-``
+```
 Intervals that contain 5L:
 1
 Intervals that contain 10L:
@@ -68,4 +68,4 @@ Intervals that contain 29L:
 Intervals that intersect (5L,15L):
 3
 1
-``
+```
