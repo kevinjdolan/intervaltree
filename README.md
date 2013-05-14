@@ -25,7 +25,7 @@ It is a static data structure, meaning it must be rebuilt anytime a change is ma
 
 The following code snippet shows you how to use the library:
 
-``
+```
 IntervalTree<Integer> it = new IntervalTree<Integer>;();
  
 it.addInterval(0L,10L,1);
@@ -53,7 +53,7 @@ for(int r : result3)
 System.out.println("Intervals that intersect (5L,15L):");
 for(int r : result4)
     System.out.println(r);
-``
+```
 
 This code would output:
 
